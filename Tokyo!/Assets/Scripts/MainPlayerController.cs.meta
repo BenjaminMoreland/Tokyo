@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b400e7003badc1a4ba4731bb75ad1651
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - groundCheck: {instanceID: 0}
+  - jumpNoise: {fileID: 8300000, guid: 509459b8d2e1dee449b521b30feb054d, type: 3}
+  - deathNoise: {fileID: 8300000, guid: 69e6ad64903d21e48bf8781251b1b84b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
